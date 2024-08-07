@@ -1,0 +1,74 @@
+Sure, here's the title and description formatted as you requested:
+
+**Title:** Creating a Sleek Card Loader Animation with HTML & CSS
+
+**Description:**
+In this video, I'll guide you through creating a beautiful card loader animation using HTML and CSS. This tutorial is perfect for beginners and intermediate developers who want to add a sleek and modern loading animation to their web projects. We'll cover everything from setting up the basic structure to adding animations and styling.
+
+🖥️ **Code Overview:**
+
+- Setting up the HTML structure for the loader
+- Writing CSS for styling and animation
+- Explanation of keyframes and animation properties
+- Creating a smooth loading effect for the card
+
+📁 **Source Code:**
+You can find the complete source code : https://docs.google.com/document/d/1RAPP_xfablCicklElocLONf8wdjrTNgJhOoHUZR_Z1g/edit
+
+🔔 Don't forget to like, share, and subscribe for more tutorials on web development and design!
+
+📧 **Connect with me:**
+- LinkedIn: https://www.linkedin.com/in/mayank-gangwar-1443831b7/
+- Twitter: https://x.com/PrinceKurmi99
+
+**Keywords:** CSS animations, HTML CSS loader, web design, frontend development, web development tutorials, CSS keyframes, modern loaders, JavaScript animations, beginner coding tutorials.
+
+**Tags:** #CSSAnimations #HTMLLoader #WebDevelopment #FrontendTutorials #CodekaChaska
+
+If you have any questions or suggestions, please leave a comment below. Thank you for watching and happy coding!
+
+
+**Title:** Creating a Stylish Three-Line Loader Animation with HTML & CSS
+
+**Description:**
+In this video, I'll guide you through creating an eye-catching three-line loader animation using HTML and CSS. This tutorial is perfect for beginners and intermediate developers who want to add a sleek and modern loading animation to their web projects. We will cover everything from setting up the basic structure to adding animations and styling.
+
+🖥️ *Code Overview:*
+
+- Setting up the HTML structure for the loader
+- Writing CSS for styling and animation
+- Explanation of keyframes and animation properties
+- Creating a smooth loading effect for the linear loader
+
+📁 *Source Code:*
+You can find the complete source code : https://docs.google.com/document/d/1Xc7GMa06zs_H6FF0YsBLlpaXnuRQZ66Jzt6iWxw7TeI/edit
+
+🔔 Don't forget to like, share, and subscribe for more tutorials on web development and design!
+
+📧 *Connect with me:*
+- LinkedIn: https://www.linkedin.com/in/mayank-gangwar-1443831b7/
+- Twitter: https://x.com/PrinceKurmi99
+
+*Keywords:* CSS animations, HTML CSS loader, web design, frontend development, web development tutorials, CSS keyframes, modern loaders, JavaScript animations, beginner coding tutorials.
+
+*Tags:* #CSSAnimations #HTMLLoader #WebDevelopment #FrontendTutorials #CodekaChaska
+
+If you have any questions or suggestions, please leave a comment below. Thank you for watching and happy coding!
+
+
+
+Work report
+Date - 02/08/2024
+Project - S2S-4
+Task Name - When searching for teams in the health overview, the team is sometimes displayed twice with @Parth Sathvara - Dot Net.
+Worked hours - 1 hours
+Task status - Done
+Task Name - PROD: Default owner/member from policy is not applied to Teams if Template has metadata associated with it with @Parth Sathvara - Dot Net.
+Worked hours - 1 hours
+Task status - Done
+Task Name - Revise login - too many log entries are made and therefore we always come directly to our daily limit here we need adjustments so that these logs can also be used for error analysis with @Parth Sathvara - Dot Net.
+Worked hours - 2 hours
+Task status - Going on
+Task Name - PROD: - Can't Post announcement in Channel  with first click with @Parth Sathvara - Dot Net.
+Worked hours - 3 hours
+Task status - Done
